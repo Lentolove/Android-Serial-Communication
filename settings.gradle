@@ -1,0 +1,5 @@
+include ':devservice'
+include ':devicecontrol'
+include ':seriallibrary'
+include ':app'
+rootProject.name = "Android-Serial-Communication"
